@@ -10,8 +10,7 @@ The Code files Sequence wise-
 2. Model Training: Model_training.py
 3. Model Testing: Model_tests.py
 
-> [!ALERT]
-> --> Future Prospects-
+> Future Prospects-
 > 
 > 1. FEDRATED Learning Implementation: FEDRATED_CNN_model.py (Ongoing)
 
