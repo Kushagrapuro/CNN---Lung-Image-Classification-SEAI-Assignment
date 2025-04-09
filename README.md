@@ -1,4 +1,4 @@
-# The SEAI Subject CNN based base code for Lung image classification bw Covid & Viral Pneumonia
+# The SEAI Subject CNN based base code for Lung image classification between Covid & Viral Pneumonia
 The Subject wise assignment contains the following work, as instructed by our faculty:
 
 > [!NOTE]
