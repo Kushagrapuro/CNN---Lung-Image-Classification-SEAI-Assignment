@@ -1,7 +1,8 @@
 # The SEAI Subject CNN based base code for Lung image classification bw Covid & Viral Pneumonia
 The Subject wise assignment contains the following work, as instructed by our faculty:
 
-The dataset from kaggle: https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database/data
+> [!NOTE]
+> The dataset from kaggle: https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database/data
 
 The Code files Sequence wise-
 
